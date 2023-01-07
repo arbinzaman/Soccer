@@ -1,8 +1,15 @@
-Thank you for using our template!
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+<br />
+<p align="center">
+  <h1 align="center"Soccer</h1>
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+  <p align="center">
+This Site develped For the Web Application Lab Assignment 
+    
+    
+</p>
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+[![Site preview](/Screenshot_20230107_201026.png)](https://classy-clafoutis-666d0b.netlify.app/)
+
+## Technology Stack 🛠️ -HTML , CSS , Bootstrap 
+# Live Site Link - https://classy-clafoutis-666d0b.netlify.app/
